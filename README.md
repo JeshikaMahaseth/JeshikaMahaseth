@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A Front End Developer at Computer Vision <br>🤝 Working as a Tech Associate in Alexa Developers <br>🌱 Under Process Full Stack Developer <br>👯 Looking for Internships <br> 💬 Ask me about SRM <br>⚡ Fun fact I don't study lol<br>📲 Contact For Website Development      
+I'm Jeshika Mahaseth, a 3rd-year Computer Science and Engineering student at SRM Institute of Science and Technology in Chennai, Tamil Nadu. Passionate about coding and problem-solving, I specialize in front-end development and am progressing towards becoming a full-stack developer.
 
 
 ## 🌐 Socials:
